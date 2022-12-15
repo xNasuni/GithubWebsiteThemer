@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name Github Website Themer
 // @namespace Mia's Utility Scripts
-// @version 2
+// @version 1
 // @updateURL https://github.com/xNasuni/GithubWebsiteThemer/raw/main/githubwebsitethemer.user.js
 // @downloadURL https://github.com/xNasuni/GithubWebsiteThemer/raw/main/githubwebsitethemer.user.js
 // @author Mia
